@@ -1,4 +1,4 @@
-[![jseijo-p's 42 stats](https://badge42.vercel.app/api/v2/cl2s2tlio014009mn0nrll98l/stats?cursusId=21&coalitionId=undefined)]
+![jseijo-p's 42 stats](https://badge42.vercel.app/api/v2/cl2s2tlio014009mn0nrll98l/stats?cursusId=21&coalitionId=undefined)
 
 <a href="https://github.com/kikoseijo/github-readme-stats">
 
